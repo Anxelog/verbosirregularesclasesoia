@@ -1,5 +1,4 @@
-Unha app para aprender os verbos irregulares do inglés. Na primeira pantalla podedes escoller os verbos que queredes traballar, en función do voso nivel ou dos que vos piden. Podedes usar a app de dúas formas:
-1. Podedes aprendelos desde 0 coa opción “Iniciar aprendizaxe”: iránsevos ensinando os verbos seleccionados de 5 en 5. Despois de cada pantalla de aprendizaxe haberá unha cun exercicio para practicar os verbos estudados, até que cheguedes a aprender todos os que queirades ou teñades que aprender. Ao final, a app correxiravos o exercicio e diravos onde errastes e onde acertastes; ademais, daravos unha puntuación entre 0 e 10.
-2. Se pensades que xa coñecedes bastante ben os verbos que vos toca estudar, podedes probar o modo “Facer exame”: a app escollerá un máximo de 25 verbos entre os que teñades seleccionado na pantalla de inicio e prepararavos un exercicio. Ao terminar, indicaravos os erros e acertos e puntuaravos entre 0 e 10.
-
-Tende en conta que as solucións deben ser escritas tal como está previsto pola app, de modo que botade un ollo ás traducións dos verbos que se ofrecen na pantalla inicial.
+Esta é unha aplicación web deseñada para axudar na aprendizaxe dos verbos irregulares en inglés.
+Vas poder seleccionar aqueles verbos que necesites aprender para o teu curso na seguinte ventá, de modo que a aplicación che axude a traballar só os que precises.
+Vas poder usar o modo de aprendizaxe, onde irás aprendendo ou repasando os verbos pouco a pouco; ou o modo de exame, onde se che fará unha proba a partir de todos os verbos que escollas, seleccionando aleatoriamente unha porción deles.
+A app só admite como respostas válidas aquelas para as que está programada, de modo que se recomenda usar o modo aprendizaxe ao principio, para poder familiarizarse con esas respostas.
